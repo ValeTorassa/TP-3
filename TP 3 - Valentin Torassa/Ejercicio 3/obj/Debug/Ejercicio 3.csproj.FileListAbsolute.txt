@@ -1,0 +1,11 @@
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio_3.Form1.resources
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\° Vale °\Desktop\C#\Proyectos Visual Studio\Clase 6 Ejercicios\Clase6\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
